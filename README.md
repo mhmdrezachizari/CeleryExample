@@ -1,4 +1,4 @@
-in this project you should install Docker and with basic command you can run this:  
+in this project you should install Docker and with basic command you can run it:  
 
 
       docker build 
